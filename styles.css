@@ -4,7 +4,6 @@ blockquote{
 	width: 600px;
 	margin: 10px;
 	padding: 15px;
-	border-left-width: 8px;
-	border-left-color: green;
-	background-color: Light greenish-blue;
+	border-left: 8px solid green;
+	background: #f8fffe;
 }
